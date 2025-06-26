@@ -1,0 +1,36 @@
+[
+  {
+    "variationNumber": 1,
+    "text": "Ola boa tarde, gostaria de apresentar uma proposta de um novo plano de taxas para a empresa *{variavel2}* de CNPJ: *{variavel1}*",
+    "imageUrl": "1750681897805-666384046.jpeg",
+    "enabled": true,
+    "id": 4,
+    "createdAt": "2025-06-22T16:16:11.910Z",
+    "updatedAt": "2025-06-24T18:19:01.347Z",
+    "sendSecondMessage": false,
+    "secondMessage": "boa tarde {variavel2}",
+    "secondMessageDelay": 10
+  },
+  {
+    "variationNumber": 2,
+    "text": "Oi boa tarde, gostaria de apresentar uma proposta de um novo plano de taxas para a empresa *{variavel2}* de CNPJ: *{variavel1}*",
+    "imageUrl": "1750738176674-28996057.jpeg",
+    "enabled": true,
+    "id": 5,
+    "createdAt": "2025-06-22T16:16:11.913Z",
+    "updatedAt": "2025-06-24T18:19:04.925Z",
+    "sendSecondMessage": false,
+    "secondMessage": "boa tarde 2{variavel2}  resposta"
+  },
+  {
+    "variationNumber": 3,
+    "text": "Boa tarde, gostaria de apresentar uma proposta de um novo plano de taxas para a empresa *{variavel2}* de CNPJ: *{variavel1}*",
+    "imageUrl": "1750738180806-359606837.jpeg",
+    "enabled": true,
+    "id": 6,
+    "createdAt": "2025-06-22T16:16:11.914Z",
+    "updatedAt": "2025-06-24T18:19:10.318Z",
+    "sendSecondMessage": false,
+    "secondMessage": "boa tarde 3{variavel2}  resposta"
+  }
+]

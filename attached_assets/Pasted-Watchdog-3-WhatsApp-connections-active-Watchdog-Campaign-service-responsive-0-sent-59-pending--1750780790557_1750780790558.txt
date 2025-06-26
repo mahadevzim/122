@@ -1,0 +1,78 @@
+Watchdog: 3 WhatsApp connections active
+Watchdog: Campaign service responsive - 0 sent, 59 pending
+12:35:34 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:35:34 PM [express] GET /api/campaign/stats 304 in 1ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:35:35 PM [express] GET /api/campaign-settings 304 in 1ms :: {"minInterval":120,"maxInterval":240,"…
+WhatsApp connection 4: QR code received
+WhatsApp connection 4: QR code generated and saved
+WhatsApp connection 4: Disconnected - LOGOUT
+WhatsApp connection 4: Status updated to disconnected
+12:35:36 PM [express] GET /api/whatsapp-connections 200 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:35:36 PM [express] GET /api/campaign/stats 304 in 2ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:35:37 PM [express] GET /api/campaign-settings 304 in 1ms :: {"minInterval":120,"maxInterval":240,"…
+Cleaned up specific session: client_4
+Background cleanup completed for client_4
+12:35:38 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:35:38 PM [express] GET /api/campaign/stats 304 in 2ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:35:39 PM [express] GET /api/campaign-settings 304 in 1ms :: {"minInterval":120,"maxInterval":240,"…
+12:35:40 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:35:40 PM [express] GET /api/campaign/stats 304 in 2ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:35:41 PM [express] GET /api/campaign-settings 304 in 1ms :: {"minInterval":120,"maxInterval":240,"…
+12:35:42 PM [express] GET /api/received-messages 304 in 1ms :: []
+12:35:42 PM [express] GET /api/campaign-logs 304 in 2ms :: []
+12:35:42 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:35:42 PM [express] GET /api/campaign/stats 304 in 2ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:35:43 PM [express] GET /api/campaign-settings 304 in 1ms :: {"minInterval":120,"maxInterval":240,"…
+12:35:44 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:35:44 PM [express] GET /api/campaign/stats 304 in 1ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:35:45 PM [express] GET /api/campaign-settings 304 in 1ms :: {"minInterval":120,"maxInterval":240,"…
+12:35:46 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:35:46 PM [express] GET /api/campaign/stats 304 in 2ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:35:47 PM [express] GET /api/campaign-settings 304 in 2ms :: {"minInterval":120,"maxInterval":240,"…
+12:35:48 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:35:48 PM [express] GET /api/campaign/stats 304 in 1ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:35:49 PM [express] GET /api/campaign-settings 304 in 1ms :: {"minInterval":120,"maxInterval":240,"…
+12:35:50 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:35:50 PM [express] GET /api/campaign/stats 304 in 1ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:35:51 PM [express] GET /api/campaign-settings 304 in 1ms :: {"minInterval":120,"maxInterval":240,"…
+12:35:52 PM [express] GET /api/received-messages 304 in 1ms :: []
+12:35:52 PM [express] GET /api/campaign-logs 304 in 1ms :: []
+12:35:52 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:35:52 PM [express] GET /api/campaign/stats 304 in 2ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:35:53 PM [express] GET /api/campaign-settings 304 in 1ms :: {"minInterval":120,"maxInterval":240,"…
+12:35:54 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:35:54 PM [express] GET /api/campaign/stats 304 in 1ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:35:55 PM [express] GET /api/campaign-settings 304 in 1ms :: {"minInterval":120,"maxInterval":240,"…
+12:35:56 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:35:56 PM [express] GET /api/campaign/stats 304 in 1ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:35:57 PM [express] GET /api/campaign-settings 304 in 1ms :: {"minInterval":120,"maxInterval":240,"…
+12:35:58 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:35:58 PM [express] GET /api/campaign/stats 304 in 2ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:35:59 PM [express] GET /api/campaign-settings 304 in 1ms :: {"minInterval":120,"maxInterval":240,"…
+12:36:00 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:36:00 PM [express] GET /api/campaign/stats 304 in 2ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:36:01 PM [express] GET /api/campaign-settings 304 in 0ms :: {"minInterval":120,"maxInterval":240,"…
+12:36:02 PM [express] GET /api/received-messages 304 in 1ms :: []
+12:36:02 PM [express] GET /api/campaign-logs 304 in 2ms :: []
+12:36:02 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:36:02 PM [express] GET /api/campaign/stats 304 in 1ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:36:03 PM [express] GET /api/campaign-settings 304 in 1ms :: {"minInterval":120,"maxInterval":240,"…
+Watchdog: 3 WhatsApp connections active
+Watchdog: Campaign service responsive - 0 sent, 59 pending
+12:36:04 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:36:04 PM [express] GET /api/campaign/stats 304 in 2ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:36:05 PM [express] GET /api/campaign-settings 304 in 1ms :: {"minInterval":120,"maxInterval":240,"…
+12:36:06 PM [express] GET /api/whatsapp-connections 304 in 1ms :: [{"name":"WhatsApp #1","status":"co…
+12:36:06 PM [express] GET /api/campaign/stats 304 in 2ms :: {"sent":0,"pending":59,"errors":0,"respon…
+12:36:07 PM [express] GET /api/campaign-settings 304 in 0ms :: {"minInterval":120,"maxInterval":240,"…
+🚨 Unhandled Rejection at: Promise {
+  <rejected> Error: Error: EBUSY: resource busy or locked, unlink 'C:\Users\Maome\Downloads\123wht (5)\123wht\.wwebjs_auth\session-client_4\session-client_4\Default\chrome_debug.log'
+      at C:\Users\Maome\Downloads\123wht (5)\123wht\node_modules\whatsapp-web.js\src\authStrategies\LocalAuth.js:51:27
+      at async LocalAuth.logout (C:\Users\Maome\Downloads\123wht (5)\123wht\node_modules\whatsapp-web.js\src\authStrategies\LocalAuth.js:49:13)
+      at async C:\Users\Maome\Downloads\123wht (5)\123wht\node_modules\whatsapp-web.js\src\Client.js:334:17
+} reason: Error: Error: EBUSY: resource busy or locked, unlink 'C:\Users\Maome\Downloads\123wht (5)\123wht\.wwebjs_auth\session-client_4\session-client_4\Default\chrome_debug.log'
+    at C:\Users\Maome\Downloads\123wht (5)\123wht\node_modules\whatsapp-web.js\src\authStrategies\LocalAuth.js:51:27
+    at async LocalAuth.logout (C:\Users\Maome\Downloads\123wht (5)\123wht\node_modules\whatsapp-web.js\src\authStrategies\LocalAuth.js:49:13)
+    at async C:\Users\Maome\Downloads\123wht (5)\123wht\node_modules\whatsapp-web.js\src\Client.js:334:17
+💥 Application crashed (unhandledRejection): Error: EBUSY: resource busy or locked, unlink 'C:\Users\Maome\Downloads\123wht (5)\123wht\.wwebjs_auth\session-client_4\session-client_4\Default\chrome_debug.log'
+🔄 Attempting restart 1/50 in 5000ms...

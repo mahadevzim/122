@@ -1,0 +1,13 @@
+{
+  "schema": "./shared/schema.ts",
+  "out": "./drizzle",
+  "dialect": "postgresql",
+  "dbCredentials": {
+    "host": "ep-little-sound-a2lrybxs.eu-central-1.aws.neon.tech",
+    "port": 5432,
+    "user": "neondb_owner",
+    "password": "npg_Z5pzmQPAYG9R",
+    "database": "neondb",
+    "ssl": true
+  }
+}
